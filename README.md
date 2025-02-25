@@ -10,11 +10,17 @@ This project focuses on designing and implementing a Data Warehouse (DW) while e
 📁 Project Structure:
 
 The project is structured around the following files:
+
 📄 Report – A document detailing the methodology, results, and analysis.
+
 📂 data_original.csv – Raw data before any processing.
+
 📜 data_processing.py – Python script for data cleaning and preprocessing.
+
 📂 processed_data.csv – Cleaned and transformed data.
+
 📂 matrix.csv – Data matrix used for analysis and visualization.
+
 📜 data_integration_visualization.py – Script for visualizing the data and perform clustering using the k-means algorithm and visualize the clusters
 
 🛠️ Technologies Used:
